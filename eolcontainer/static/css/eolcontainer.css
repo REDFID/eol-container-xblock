@@ -1037,7 +1037,7 @@ p.case-title {
     top: 7px;
     left: 16px;
 
-    width: calc(var(--max-width) - 16px);
+    width: calc(var(--max-width));
 
     box-sizing: border-box;
     border: 2px solid #606CDD;
@@ -1115,7 +1115,7 @@ p.case-title {
 
 .eolcontainer_block .Situacion-RedFid .exptop { 
     position: absolute;
-    width: calc(var(--max-width) - 16px);
+    width: calc( var(--max-width) );
     background-repeat: no-repeat;
     height: 70px;
     background-image: url(https://static.sumaysigue.uchile.cl/redfid/Assets/img/redfid_situacion.png);
@@ -1127,7 +1127,7 @@ p.case-title {
     position: relative;
     top: 0px;
     height: 100%;
-    width: calc( var(--max-width) - 16px);
+    width: calc( var(--max-width) );
     box-sizing: border-box;
     border: 2px solid;
 
@@ -1168,7 +1168,7 @@ p.case-title {
     top: 7px;
     left: 16px;
 
-    width: calc(var(--max-width) - 16px);
+    width: calc( var(--max-width) );
 
     box-sizing: border-box;
     border: 2px solid #e25973;
